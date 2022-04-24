@@ -95,17 +95,7 @@ header.fix{
 
 
  
- /* .b-show {
-   display: block;
-   animation: showBlock 1s linear forwards;
- } */
 
-
- /* .b-clear {
-   display: block;
-   animation: clearBlock 1s linear forwards;
- } */
- 
  @keyframes showBlock {
    0% {
      opacity: 0;
@@ -115,11 +105,3 @@ header.fix{
    }
  }
 
- /* @keyframes clearBlock { 
-   0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
- } */
