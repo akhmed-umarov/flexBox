@@ -54,7 +54,6 @@ section{
    max-width: var(--width);
 }
 .block{ 
-   animation: showBlock 1s linear forwards;
    display: flex;
    align-items: center;
    padding-left: 1vw;
